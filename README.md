@@ -30,3 +30,18 @@ python tests.py or python3 tests.py
 ```
 python main.py or python3 main.py
 ```
+
+## Usage
+1. Main Menu
+<img width="310" alt="tracker 1" src="https://github.com/user-attachments/assets/ced0e9f8-6af0-4fcd-b342-acc8dc5e8e18">
+
+ - Choose 1 to list your current habits and peform actions on them (compelte, delete, show longest streak)
+ - Choose 2 to create a new habit
+ - Choose 3 to list your daily habits
+ - Choose 4 to list your weekly habits
+ - Choose 5 to list all habits with their longest streaks
+ - Choose 6 to exit
+
+Enjoy the Habit Tracker!
+
+
