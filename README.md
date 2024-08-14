@@ -20,7 +20,13 @@ The app stores data in JSON files, enabling to manage and review progress over t
 ## Installation
 1. Clone the repository
  ```
-git clone 
+git clone https://github.com/CyberKyoujin/habit-tracker.git
  ``` 
-
-
+2. Run tests
+```
+python tests.py or python3 tests.py
+``` 
+3. If the tests were successfull, run the main module
+```
+python main.py or python3 main.py
+```
