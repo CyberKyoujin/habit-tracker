@@ -28,7 +28,8 @@ def main():
             choise = int(input(f"\nChoose a habit to perform some action (1-{len(tracker.habits)}): "))
             habit_name = tracker.habits[choise].name
             print("\n--------------------------------")
-            action_choise = input(f"1. Complete habit {habit_name}\n2. Delete habit {habit_name}\n3. Show longest streak for {habit_name}\n--------------------------------\n\nChoose an option (1-3): ")
+            action_choise = input(f"1. Complete habit {habit_name}\n2. Delete habit {habit_name}\n
+            3. Show longest streak for {habit_name}\n--------------------------------\n\nChoose an option (1-3): ")
 
             if action_choise == "1":
                 print("\n--------------------------------")
